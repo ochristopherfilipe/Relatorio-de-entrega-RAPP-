@@ -1,4 +1,4 @@
-# Relatório de entrega de Relatório de Atividades Potencialmente Poluidoras (RAPP) - Análise de Dados com Python
+# RRelatório de Atividades Potencialmente Poluidoras (RAPP) - Análise de Dados com Python
 
 Este é um relatório de análise de dados referente à entrega de Relatório de Atividades Potencialmente Poluidoras (RAPP) com informações obtidas do governo. O objetivo deste relatório é demonstrar a manipulação e análise de dados utilizando a linguagem de programação Python, com o intuito de extrair informações relevantes sobre as atividades potencialmente poluidoras realizadas por pessoas jurídicas.
 
